@@ -78,7 +78,14 @@ ESP32/Arduino reference firmware for soil-moisture monitoring and relay-controll
 
 **Robotics & Embedded Systems Intern — ERA Foundation India**
 
-Worked on Raspberry Pi/Python/GPIO-based robotic control applications, sensor and actuator integration, multiple motor operating states, Linux-based development, and hardware-software troubleshooting.
+- Developed and tested real-time embedded control applications using Raspberry Pi, Python, and GPIO, supporting five motor operating states.
+- Integrated sensors, actuators, and embedded control logic for robotic systems.
+- Validated hardware-software interaction across embedded control components.
+- Implemented sensor-processing functionality using ultrasonic sensing and motion detection.
+- Configured and worked with Linux-based embedded development environments.
+- Performed embedded system troubleshooting involving GPIO, sensors, motors, and software-hardware integration.
+- Developed and validated keyboard and GUI-based control interfaces.
+- Investigated hardware-software integration issues and performed root-cause analysis.
 
 ---
 
